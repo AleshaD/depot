@@ -8,7 +8,7 @@ environment:
 
 dependencies:
   rxdart: ^0.27.5
-  dartdoc: ^6.1.1
+  dartdoc: ^7.0.0
   yaml: ^3.1.1
 
 dev_dependencies:
